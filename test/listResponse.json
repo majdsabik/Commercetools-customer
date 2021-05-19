@@ -1,0 +1,296 @@
+{
+    "limit": 20,
+    "offset": 0,
+    "count": 13,
+    "total": 13,
+    "results": [
+        {
+            "id": "1f8ef24b-9aa7-4606-990d-07349364f47b",
+            "version": 4,
+            "lastMessageSequenceNumber": 2,
+            "createdAt": "2021-05-06T07:24:32.238Z",
+            "lastModifiedAt": "2021-05-14T15:23:44.249Z",
+            "lastModifiedBy": {
+                "clientId": "ejz2jK2XFomCi-MuSSwmyTub",
+                "isPlatformClient": false
+            },
+            "createdBy": {
+                "clientId": "ejz2jK2XFomCi-MuSSwmyTub",
+                "isPlatformClient": false
+            },
+            "email": "mail2@mail.com",
+            "firstName": "Fname",
+            "lastName": "Lname",
+            "password": "1zr3z/v1a2RwTuM8mCfV6PFiobyrfRfV5B9FJALjL28=$10opj2CVv2vS/BMxPqWGbp5GKR2/y4XA2Bq08BkpHbw=",
+            "addresses": [],
+            "shippingAddressIds": [],
+            "billingAddressIds": [],
+            "isEmailVerified": false,
+            "stores": []
+        },
+        {
+            "id": "ba613b60-0da9-4056-9191-3fe28e67063e",
+            "version": 1,
+            "lastMessageSequenceNumber": 1,
+            "createdAt": "2021-05-14T14:16:03.754Z",
+            "lastModifiedAt": "2021-05-14T14:16:03.754Z",
+            "lastModifiedBy": {
+                "clientId": "ejz2jK2XFomCi-MuSSwmyTub",
+                "isPlatformClient": false
+            },
+            "createdBy": {
+                "clientId": "ejz2jK2XFomCi-MuSSwmyTub",
+                "isPlatformClient": false
+            },
+            "email": "testemail3@testemail.com",
+            "password": "oftYvuBvpgGi3jViYIij1se73p3yPahIGFYFCT1syj8=$GspcfuthjTqEzleuL4yGbClDzGI7Qk058luZRdATOX8=",
+            "addresses": [],
+            "shippingAddressIds": [],
+            "billingAddressIds": [],
+            "isEmailVerified": false,
+            "stores": []
+        },
+        {
+            "id": "3d2d0017-0527-4645-9f05-1b42b70a77bf",
+            "version": 1,
+            "lastMessageSequenceNumber": 1,
+            "createdAt": "2021-05-14T14:54:35.403Z",
+            "lastModifiedAt": "2021-05-14T14:54:35.403Z",
+            "lastModifiedBy": {
+                "clientId": "ejz2jK2XFomCi-MuSSwmyTub",
+                "isPlatformClient": false
+            },
+            "createdBy": {
+                "clientId": "ejz2jK2XFomCi-MuSSwmyTub",
+                "isPlatformClient": false
+            },
+            "email": "testemailh3@testemail.com",
+            "password": "i+fQDXIvshyT10XUvG2cVpVTPbT9WUSgR1YBK295Xz4=$wL4QJa/J+xOL2fQ+AMfLFP4TX1TrcQQ22xa0EKzrvTk=",
+            "addresses": [],
+            "shippingAddressIds": [],
+            "billingAddressIds": [],
+            "isEmailVerified": false,
+            "stores": []
+        },
+        {
+            "id": "52a59e0f-7ecf-4b7e-b738-6310e85336b5",
+            "version": 1,
+            "lastMessageSequenceNumber": 1,
+            "createdAt": "2021-05-14T14:56:32.097Z",
+            "lastModifiedAt": "2021-05-14T14:56:32.097Z",
+            "lastModifiedBy": {
+                "clientId": "ejz2jK2XFomCi-MuSSwmyTub",
+                "isPlatformClient": false
+            },
+            "createdBy": {
+                "clientId": "ejz2jK2XFomCi-MuSSwmyTub",
+                "isPlatformClient": false
+            },
+            "email": "testemailh3h@testemail.com",
+            "password": "L0tXoMFIERhT7MMkux5D1bjGGpz6pxLUjR2iuKHSRQ8=$CX8uPC4F1NVZoGalFKHrrABMdFXzgQ3SDWF6OuuH+vU=",
+            "addresses": [],
+            "shippingAddressIds": [],
+            "billingAddressIds": [],
+            "isEmailVerified": false,
+            "stores": []
+        },
+        {
+            "id": "47b4b964-68c0-4c1c-a7db-af2a6e5c1a17",
+            "version": 1,
+            "lastMessageSequenceNumber": 1,
+            "createdAt": "2021-05-14T14:57:34.502Z",
+            "lastModifiedAt": "2021-05-14T14:57:34.502Z",
+            "lastModifiedBy": {
+                "clientId": "ejz2jK2XFomCi-MuSSwmyTub",
+                "isPlatformClient": false
+            },
+            "createdBy": {
+                "clientId": "ejz2jK2XFomCi-MuSSwmyTub",
+                "isPlatformClient": false
+            },
+            "email": "testemailh3hh@testemail.com",
+            "password": "ZMOiykrgwo7qcUUUq9/C7BGhLVSVuSvjIww2hYF6ZSo=$w7dk7AKpEPr1xKwLCpN6StloII6FOY64SuQupGihC9A=",
+            "addresses": [],
+            "shippingAddressIds": [],
+            "billingAddressIds": [],
+            "isEmailVerified": false,
+            "stores": []
+        },
+        {
+            "id": "0ec1a9fe-da16-434e-908a-120951702977",
+            "version": 1,
+            "lastMessageSequenceNumber": 1,
+            "createdAt": "2021-05-14T14:58:45.966Z",
+            "lastModifiedAt": "2021-05-14T14:58:45.966Z",
+            "lastModifiedBy": {
+                "clientId": "ejz2jK2XFomCi-MuSSwmyTub",
+                "isPlatformClient": false
+            },
+            "createdBy": {
+                "clientId": "ejz2jK2XFomCi-MuSSwmyTub",
+                "isPlatformClient": false
+            },
+            "email": "testemailh3hhh@testemail.com",
+            "password": "gB/i9QGFN2thdyG2+AKJwRSycz5s97jQcS2090T/RkQ=$hK1D+O8iAfV2Q0HaoVOHlUeSGLfWb4AcMbc5qXC1pyE=",
+            "addresses": [],
+            "shippingAddressIds": [],
+            "billingAddressIds": [],
+            "isEmailVerified": false,
+            "stores": []
+        },
+        {
+            "id": "bb3e2137-d081-497c-91f8-59f9773c5d0c",
+            "version": 1,
+            "lastMessageSequenceNumber": 1,
+            "createdAt": "2021-05-14T14:59:42.170Z",
+            "lastModifiedAt": "2021-05-14T14:59:42.170Z",
+            "lastModifiedBy": {
+                "clientId": "ejz2jK2XFomCi-MuSSwmyTub",
+                "isPlatformClient": false
+            },
+            "createdBy": {
+                "clientId": "ejz2jK2XFomCi-MuSSwmyTub",
+                "isPlatformClient": false
+            },
+            "email": "testemailh3hhhh@testemail.com",
+            "password": "HrE1CMVYtbOrAQD34Zm7QA0G671lM/zw8UpsDMS2mv8=$NSZnkcgwiVCqnNi1EzPnMZhiXVImoLtnx6UxKCQOn9c=",
+            "addresses": [],
+            "shippingAddressIds": [],
+            "billingAddressIds": [],
+            "isEmailVerified": false,
+            "stores": []
+        },
+        {
+            "id": "22478c01-b029-46d3-8630-3a64e7f1cc76",
+            "version": 1,
+            "lastMessageSequenceNumber": 1,
+            "createdAt": "2021-05-14T15:00:19.263Z",
+            "lastModifiedAt": "2021-05-14T15:00:19.263Z",
+            "lastModifiedBy": {
+                "clientId": "ejz2jK2XFomCi-MuSSwmyTub",
+                "isPlatformClient": false
+            },
+            "createdBy": {
+                "clientId": "ejz2jK2XFomCi-MuSSwmyTub",
+                "isPlatformClient": false
+            },
+            "email": "testemailh3hhhhh@testemail.com",
+            "password": "jqLfmZwGTdNFt3/mnOXOTb0ryXpjJvPieq8P84SbZBA=$EWbOu0jY1z1sGX0+o3t8xcSozPlxSmE7elEQ298JisM=",
+            "addresses": [],
+            "shippingAddressIds": [],
+            "billingAddressIds": [],
+            "isEmailVerified": false,
+            "stores": []
+        },
+        {
+            "id": "39575246-0fc6-4e28-b882-0418f821555d",
+            "version": 1,
+            "lastMessageSequenceNumber": 1,
+            "createdAt": "2021-05-14T15:01:06.365Z",
+            "lastModifiedAt": "2021-05-14T15:01:06.365Z",
+            "lastModifiedBy": {
+                "clientId": "ejz2jK2XFomCi-MuSSwmyTub",
+                "isPlatformClient": false
+            },
+            "createdBy": {
+                "clientId": "ejz2jK2XFomCi-MuSSwmyTub",
+                "isPlatformClient": false
+            },
+            "email": "testemailh3hhhhhh@testemail.com",
+            "password": "gXH+LJqU5XMkXd8wSgpyP6p/OhE9uj2ikcqpfr+/BlQ=$tzZm2pIHAStbvLyDiDgp6jy8+/AA73siUphWz7m7IbY=",
+            "addresses": [],
+            "shippingAddressIds": [],
+            "billingAddressIds": [],
+            "isEmailVerified": false,
+            "stores": []
+        },
+        {
+            "id": "3d750688-e6f2-4a97-a4b0-773b4273ecac",
+            "version": 1,
+            "lastMessageSequenceNumber": 1,
+            "createdAt": "2021-05-14T15:01:43.393Z",
+            "lastModifiedAt": "2021-05-14T15:01:43.393Z",
+            "lastModifiedBy": {
+                "clientId": "ejz2jK2XFomCi-MuSSwmyTub",
+                "isPlatformClient": false
+            },
+            "createdBy": {
+                "clientId": "ejz2jK2XFomCi-MuSSwmyTub",
+                "isPlatformClient": false
+            },
+            "email": "testemailh3hhhhhhh@testemail.com",
+            "password": "TlIrHnJEK4xQR+0EWE+SMuHh6CwU+MzCMSolXjE8Taw=$o9X2Lm4jIn1n4RWxTqYd0VCUEJWWvgyAxkn+uzFg+TA=",
+            "addresses": [],
+            "shippingAddressIds": [],
+            "billingAddressIds": [],
+            "isEmailVerified": false,
+            "stores": []
+        },
+        {
+            "id": "46e1100e-23e5-49f3-906e-95b91cfcee12",
+            "version": 1,
+            "lastMessageSequenceNumber": 1,
+            "createdAt": "2021-05-14T15:02:22.223Z",
+            "lastModifiedAt": "2021-05-14T15:02:22.223Z",
+            "lastModifiedBy": {
+                "clientId": "ejz2jK2XFomCi-MuSSwmyTub",
+                "isPlatformClient": false
+            },
+            "createdBy": {
+                "clientId": "ejz2jK2XFomCi-MuSSwmyTub",
+                "isPlatformClient": false
+            },
+            "email": "testemailh3hhhhhhhh@testemail.com",
+            "password": "XOB5qq/Y4LxdaS1v6F457OIB/0kLIB1at/uVcCD1ems=$yHk9fcZ8YapTk3mI3VxBXqcTu5NSkzOZelhHkHrko9A=",
+            "addresses": [],
+            "shippingAddressIds": [],
+            "billingAddressIds": [],
+            "isEmailVerified": false,
+            "stores": []
+        },
+        {
+            "id": "5d18ef2b-e37c-44e2-9a63-b408880c2399",
+            "version": 1,
+            "lastMessageSequenceNumber": 1,
+            "createdAt": "2021-05-14T15:02:41.229Z",
+            "lastModifiedAt": "2021-05-14T15:02:41.229Z",
+            "lastModifiedBy": {
+                "clientId": "ejz2jK2XFomCi-MuSSwmyTub",
+                "isPlatformClient": false
+            },
+            "createdBy": {
+                "clientId": "ejz2jK2XFomCi-MuSSwmyTub",
+                "isPlatformClient": false
+            },
+            "email": "testemailh3hhhhhhhhh@testemail.com",
+            "password": "iu1p4DvOr8+diqSa8SzQSc6tWsYJFsljWoBhJAbbnso=$MxH9PcZENKj6SuXQWJGmfo365ZRVdkYdzA9VL5kChY8=",
+            "addresses": [],
+            "shippingAddressIds": [],
+            "billingAddressIds": [],
+            "isEmailVerified": false,
+            "stores": []
+        },
+        {
+            "id": "4a7fb4c4-85d7-4476-a31f-c38b82b13dc4",
+            "version": 1,
+            "lastMessageSequenceNumber": 1,
+            "createdAt": "2021-05-14T15:03:21.165Z",
+            "lastModifiedAt": "2021-05-14T15:03:21.165Z",
+            "lastModifiedBy": {
+                "clientId": "ejz2jK2XFomCi-MuSSwmyTub",
+                "isPlatformClient": false
+            },
+            "createdBy": {
+                "clientId": "ejz2jK2XFomCi-MuSSwmyTub",
+                "isPlatformClient": false
+            },
+            "email": "testemailh3hhhhhhhhhh@testemail.com",
+            "password": "JvYOvkWxGqlmdjHgBdb6oSvHI3dtMbLNGnVmqHf/f7M=$eqSUiqxLzy1QEnAx9B/vyCbqPWRMkfv9DIYzSdY1Rk8=",
+            "addresses": [],
+            "shippingAddressIds": [],
+            "billingAddressIds": [],
+            "isEmailVerified": false,
+            "stores": []
+        }
+    ]
+}

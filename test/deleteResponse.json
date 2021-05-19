@@ -1,0 +1,22 @@
+{
+    "id": "d824c9fb-cd51-4be4-843d-801629ed2e1f",
+    "version": 3,
+    "lastMessageSequenceNumber": 1,
+    "createdAt": "2021-05-17T11:28:10.407Z",
+    "lastModifiedAt": "2021-05-17T11:31:39.957Z",
+    "lastModifiedBy": {
+        "isPlatformClient": true
+    },
+    "createdBy": {
+        "isPlatformClient": true
+    },
+    "email": "customerName@mail.com",
+    "firstName": "First name",
+    "lastName": "Last name",
+    "password": "CuQHh8H8kTHeetEy0G3sig5e/QazTKkYe+H88nARBQI=$U8F2jfc+6LWEtctb5JzB95NmitWpjVLVRNJi1OLkWfk=",
+    "addresses": [],
+    "shippingAddressIds": [],
+    "billingAddressIds": [],
+    "isEmailVerified": false,
+    "stores": []
+}

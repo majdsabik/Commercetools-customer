@@ -1,0 +1,24 @@
+{
+    "id": "1f8ef24b-9aa7-4606-990d-07349364f47b",
+    "version": 4,
+    "lastMessageSequenceNumber": 2,
+    "createdAt": "2021-05-06T07:24:32.238Z",
+    "lastModifiedAt": "2021-05-14T15:23:44.249Z",
+    "lastModifiedBy": {
+        "clientId": "ejz2jK2XFomCi-MuSSwmyTub",
+        "isPlatformClient": false
+    },
+    "createdBy": {
+        "clientId": "ejz2jK2XFomCi-MuSSwmyTub",
+        "isPlatformClient": false
+    },
+    "email": "mail2@mail.com",
+    "firstName": "Fname",
+    "lastName": "Lname",
+    "password": "1zr3z/v1a2RwTuM8mCfV6PFiobyrfRfV5B9FJALjL28=$10opj2CVv2vS/BMxPqWGbp5GKR2/y4XA2Bq08BkpHbw=",
+    "addresses": [],
+    "shippingAddressIds": [],
+    "billingAddressIds": [],
+    "isEmailVerified": false,
+    "stores": []
+}
