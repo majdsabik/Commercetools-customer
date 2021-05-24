@@ -1,4 +1,6 @@
-const { listCustomers, showCustomer, createCustomer, updateCustomer, deleteCustomer } = require('./CustomerRepository');
+/* eslint-disable object-curly-newline */
+/* eslint-disable class-methods-use-this */
+const { listCustomers, showCustomer, createCustomer, login, updateCustomer, deleteCustomer } = require('./CustomerRepository');
 
 class CustomerController {
   async list(_req, res) {
@@ -24,6 +26,16 @@ class CustomerController {
     try {
       const customer = req.body;
       const result = await createCustomer(customer);
+      res.status(result.status).json(result.data);
+    } catch (error) {
+      res.status(error.response.status).json(error.response.data);
+    }
+  }
+
+  async login(req, res) {
+    try {
+      const customer = req.body;
+      const result = await login(customer);
       res.status(result.status).json(result.data);
     } catch (error) {
       res.status(error.response.status).json(error.response.data);
